@@ -3,6 +3,7 @@ import '../../components/character_card.dart';
 import '../../components/home_banner.dart';
 import '../../data/char_data.dart';
 
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
   @override
